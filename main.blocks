@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="SCqCY9J|=p[mmFo+gAAt" x="0" y="0"><statement name="HANDLER"><block type="IR_init" id="pJAO%NA:3~^OFib]H(73"><next><block type="patrolling" id="dyx/a`cPX5Z;Lu(o{GN$"><field name="Patrolling">Maqueen_V5.Patrolling.ON</field></block></next></block></statement></block></xml>
